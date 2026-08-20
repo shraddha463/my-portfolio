@@ -543,7 +543,7 @@ function App() {
 
                 <div>
                   <small>Email</small>
-                  <p>shraddhajadhav@example.com</p>
+                  <p>shraddhaj492gmail.com</p>
                 </div>
 
               </div>
@@ -556,7 +556,7 @@ function App() {
 
                 <div>
                   <small>Location</small>
-                  <p>Gulbarga, Karnataka</p>
+                  <p>basavkalyan, Karnataka</p>
                 </div>
 
               </div>
